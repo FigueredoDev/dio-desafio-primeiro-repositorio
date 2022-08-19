@@ -1,0 +1,11 @@
+1. Git clone - git clone <https://link-com-o-nome-do-repositório>
+
+2. Git branch - git branch <nome-da-branch>
+
+4. Git status - git status
+
+5. Git add - git add <arquivo>
+
+6. Git commit - git commit -m "mensagem do commit"
+
+7. Git push - git push -u origin <nome-da-branch>
